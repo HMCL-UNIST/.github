@@ -7,4 +7,4 @@
 **We care about safety-critical mobile Cyber-Physical Systems (CPS).**
 
 [Homepage](https://hmc.unist.ac.kr/)|
-[YouTube](https://www.youtube.com/@cheolhyeonkwon)
+[YouTube](https://www.youtube.com/@hmcl-nd9bj)
